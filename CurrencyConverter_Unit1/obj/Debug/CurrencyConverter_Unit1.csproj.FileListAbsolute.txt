@@ -1,0 +1,7 @@
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\bin\Debug\CurrencyConverter_Unit1.exe.config
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\bin\Debug\CurrencyConverter_Unit1.exe
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\bin\Debug\CurrencyConverter_Unit1.pdb
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\obj\Debug\CurrencyConverter_Unit1.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\obj\Debug\CurrencyConverter_Unit1.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\obj\Debug\CurrencyConverter_Unit1.exe
+C:\Users\YL\source\repos\CurrencyConverter_Unit1\CurrencyConverter_Unit1\obj\Debug\CurrencyConverter_Unit1.pdb
